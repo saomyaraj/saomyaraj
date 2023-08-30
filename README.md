@@ -1,3 +1,5 @@
+![logo](https://github.com/saomyaraj812/saomyaraj812/blob/main/LinkedIn%20Banner.png)
+
 <h1 align="center">Hey there 👋, Myself Saomyaraj Jha</h1>
 <h3 align="center">A Computer Science Undergrad.</h3>
 
