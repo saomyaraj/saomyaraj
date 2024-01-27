@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/saomyaraj812](https://github.com/saomyaraj812)
 
-- 📫 Reach me at **jhaamrit630@gmail.com**
+- 📫 Reach me at **saomyaraj.dev@gmail.com**
 
 - ⚡ Fun fact **Juggling bits and bytes with a touch of creativity.**
 
