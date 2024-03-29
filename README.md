@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/saomyaraj_" target="blank"><img src="https://img.shields.io/twitter/follow/saomyaraj_?logo=twitter&style=for-the-badge" alt="saomyaraj_" /></a> </p>
 
-- 🔭 I like working on **Neural Networks and Robotics**
+- 🔭 I like working on **Neural Networks** and **Robotics.**
 
-- 🌱 I’m currently learning **Web Development and Internet of Things**
+- 🌱 I’m currently learning **Web Development** and **Internet of Things.**
 
-- 💬 Ask me about **Data Science and Programming**
+- 💬 Ask me about **Data Science and Programming.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/saomyaraj812](https://github.com/saomyaraj812)
 
