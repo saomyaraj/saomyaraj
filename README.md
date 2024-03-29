@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/saomyaraj_" target="blank"><img src="https://img.shields.io/twitter/follow/saomyaraj_?logo=twitter&style=for-the-badge" alt="saomyaraj_" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning and Robotics**
+- 🔭 I like working on **Neural Networks and Robotics**
 
-- 🌱 I’m currently learning **Web Development and Neural Networks**
+- 🌱 I’m currently learning **Web Development and Internet of Things**
 
 - 💬 Ask me about **Data Science and Programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/saomyaraj812](https://github.com/saomyaraj812)
 
-- 📫 Reach me at **saomyaraj.dev@gmail.com**
+- 📫 If you need help, feel free to reach me at **saomyaraj.dev@gmail.com**
 
 - ⚡ Fun fact **Juggling bits and bytes with a touch of creativity.**
 
