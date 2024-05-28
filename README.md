@@ -3,7 +3,7 @@
 <h1 align="center">Hey there 👋, Myself Saomyaraj Jha</h1>
 <h3 align="center">A Computer Science Undergrad.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saomyaraj812&label=Profile%20views&color=0e75b6&style=flat" alt="saomyaraj812" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saomyaraj&label=Profile%20views&color=0e75b6&style=flat" alt="saomyaraj" /> </p>
 
 <p align="left"> <a href="https://twitter.com/saomyaraj_" target="blank"><img src="https://img.shields.io/twitter/follow/saomyaraj_?logo=twitter&style=for-the-badge" alt="saomyaraj_" /></a> </p>
 
