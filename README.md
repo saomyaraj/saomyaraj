@@ -8,7 +8,6 @@ I like working on Neural Networks and Robotics.
 * 🌍  Based in Surat, Gujarat.
 * 🖥️  See my portfolio at [saomyaraj.github.io](http://saomyaraj.github.io)
 * ✉️  You can contact me at [saomyaraj.dev@gmail.com](mailto:saomyaraj.dev@gmail.com)
-* 🚀  Currently working on [Computer Vision and Natural Language Processing](http://github.com/saomyaraj?tab=repositories)
 * ⚡  Juggling bits and bytes with a touch of creativity.
 
 ### Skills
