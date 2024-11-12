@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a Computer Science undergrad
 ---------------------------------
 
-I like working on Neural Networks and Robotics.
+I like working on Neural Nets and Robotics.
 * 🌍  Based in Surat, Gujarat.
 * 🖥️  See my portfolio at [saomyaraj.github.io](http://saomyaraj.github.io)
 * ✉️  You can contact me at [saomyaraj.dev@gmail.com](mailto:saomyaraj.dev@gmail.com)
