@@ -1,7 +1,7 @@
 I'm a Computer Science undergrad
 ---------------------------------
 
-I like working on Neural Nets and Robotics. Also, juggling bits and bytes with a touch of creativity sometimes.
+I like working on Neural Nets and Robotics.
 
 ### Socials
 
