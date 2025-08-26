@@ -42,7 +42,3 @@ I like working on Neural Nets and Robotics.
     </picture>
 </a>
 </p>
-
-### GitHub Stats
-
-<a href="http://www.github.com/saomyaraj"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saomyaraj&stroke=ffffff&background=000000&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
